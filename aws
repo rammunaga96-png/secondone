@@ -1,0 +1,7 @@
+ ip addr : used to get private IP
+ ip route : used to get private IP
+ ifconfig : used to get private IP
+ date : to get todays date 
+timedatectl : used to get timezones 
+timedatectl set-timezone Asia/Kolkata : used to change Timezone to IST
+ who : used to see how many users have been loggin into your system
